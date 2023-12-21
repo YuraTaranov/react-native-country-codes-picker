@@ -3,6 +3,33 @@ import {CountryItem} from "../types/Types";
 export const countryCodes: CountryItem[] = [
     {
         "name": {
+            "en": "Moodboom Land",
+            "ru": "Moodboom Land",
+            "pl": "Moodboom Land",
+            "ua": "Moodboom Land",
+            "cz": "Moodboom Land",
+            "by": "Moodboom Land",
+            "pt": "Moodboom Land",
+            "es": "Moodboom Land",
+            "ro": "Moodboom Land",
+            "bg": "Moodboom Land",
+            "de": "Moodboom Land",
+            "fr": "Moodboom Land",
+            "nl": "Moodboom Land",
+            "it": "Moodboom Land",
+            "cn": "Moodboom Land",
+            "zh": "Moodboom Land",
+            "ee": "Moodboom Land",
+            "jp": "Moodboom Land",
+            "he": "Moodboom Land",
+            "el": "Moodboom Land"
+        },
+        "dial_code": "+99",
+        "code": "MB",
+        "flag": "🇨🇭"
+    },
+    {
+        "name": {
             "en": "Afghanistan",
             "ru": "Афганистан",
             "pl": "Afganistan",
